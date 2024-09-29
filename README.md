@@ -12,7 +12,7 @@ Goals and instructions of each session are in `Hands-on-1.md` and `Hands-on-2.md
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yefan/ai-agent-workshop.git
+   git clone https://github.com/yefan/ai-agent-workshop-v1.git
    ```
 2. Install dependent libraries in a virtual environment:
    If you have `venv` already installed, create a new virtual environment:
